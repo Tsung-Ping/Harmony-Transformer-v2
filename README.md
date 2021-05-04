@@ -4,5 +4,5 @@ An improved version of the [Harmony Transformer](https://archives.ismir.net/ismi
 
 
 ## File descriptions
-*`BPS_FH_preprocessing.py`: preprocessing of the BPS-FH dataset
-*`chord_recognition_models.py`: implementations of the three models in comparison: Harmony Transformer (HT/HTv2), Bi-directional Transformer for Chord Recognition (BTC), and a convolutional recurrent neural network (CRNN)
+  * `BPS_FH_preprocessing.py`: preprocessing of the BPS-FH dataset
+  * `chord_recognition_models.py`: implementations of the three models in comparison: Harmony Transformer (HT/HTv2), Bi-directional Transformer for Chord Recognition (BTC), and a convolutional recurrent neural network (CRNN)
