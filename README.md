@@ -5,8 +5,8 @@ An improved version of the [Harmony Transformer](https://github.com/Tsung-Ping/H
 ## File Descriptions
  * `BPS_FH_preprocessing.py`: preprocessing of the [BPS-FH dataset](https://github.com/Tsung-Ping/functional-harmony)
  * `chord_recognition_models.py`: implementations of the three chord recognition models: the Harmony Transformer (HT/HTv2), the Bi-directional Transformer for Chord Recognition (BTC), and the convolutional recurrent neural network (CRNN)
- * `chord_symbol_recognition.py`: train chord recognition models using 24 maj-min chord vocabulary 
- * `functional_harmony_recognition.py`: train chord recognition models using vocabulary of Roman numeral (RN) analysis
+ * `chord_symbol_recognition.py`: train the chord recognition models using the 24 maj-min chord representations
+ * `functional_harmony_recognition.py`: train the chord recognition models using the chord representations of Roman numeral analysis
 
 ## Requirements
  * python >= 3.6.4
